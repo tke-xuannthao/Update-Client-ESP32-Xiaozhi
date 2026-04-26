@@ -1,4 +1,4 @@
 {
-  "version": "2.0.5.06",
-  "firmware": "https://raw.githubusercontent.com/tke-xuannthao/Update-Client-ESP32-Xiaozhi/main/app.bin"
+  "version": "2.2.6.01",
+  "firmware": "https://raw.githubusercontent.com/tke-xuannthao/Update-Client-ESP32-Xiaozhi/main/korvo-v2.bin"
 }
