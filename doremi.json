@@ -1,1 +1,4 @@
-
+{
+  "version": "2.4.1",
+  "firmware": "https://raw.githubusercontent.com/tke-xuannthao/Update-Client-ESP32-Xiaozhi/main/Doremi-tke.bin"
+}
